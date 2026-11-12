@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://aleksandrdas.github.io/activai/sitemap.xml
